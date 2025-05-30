@@ -1,0 +1,6 @@
+{
+    "name": "gemstone-app",
+    "version": "1.0.0",
+    "description": "Takı ve süs eşyalarında kullanılan, estetik ve dayanıklı doğal taşlardır.",
+    "main": "gemstone.json"
+}
