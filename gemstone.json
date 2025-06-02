@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Ametist",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Amethyst_Druse.jpg/640px-Amethyst_Druse.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Silikat"],
       "color": ["Mor", "Lila"],
       "hardness_mohs": 7,
@@ -19,7 +19,7 @@
     {
       "id": 2,
       "name": "Aytaşı",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Moonstone.jpg/640px-Moonstone.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Feldispat"],
       "color": ["Beyaz", "Mavi", "Gri"],
       "hardness_mohs": 6,
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "name": "Obsidyen",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Obsidian.jpg/640px-Obsidian.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Volkanik cam"],
       "color": ["Siyah", "Dumanlı gri"],
       "hardness_mohs": 5.5,
@@ -52,7 +52,7 @@
     {
       "id": 4,
       "name": "Lapis Lazuli",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lapis_lazuli_-_Afghanistan.jpg/640px-Lapis_lazuli_-_Afghanistan.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Silikat"],
       "color": ["Koyu mavi", "Altın benekli"],
       "hardness_mohs": 5.5,
@@ -68,7 +68,7 @@
     {
       "id": 5,
       "name": "Akuamarin",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Aquamarine-278473.jpg/640px-Aquamarine-278473.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Beril"],
       "color": ["Açık mavi", "Deniz mavisi"],
       "hardness_mohs": 7.5,
@@ -85,7 +85,7 @@
     {
       "id": 6,
       "name": "Çeroit",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charoite.jpg/640px-Charoite.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Silikat"],
       "color": ["Mor", "Lila"],
       "hardness_mohs": 5,
@@ -102,7 +102,7 @@
     {
       "id": 7,
       "name": "Sitrin",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Citrine-121571.jpg/640px-Citrine-121571.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Silikat"],
       "color": ["Sarı", "Altın Sarısı", "Açık Kahverengi"],
       "hardness_mohs": 7,
@@ -118,7 +118,7 @@
     {
       "id": 8,
       "name": "Güneş Taşı",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sunstone-245927.jpg/640px-Sunstone-245927.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Feldispat"],
       "color": ["Turuncu", "Altın Sarısı"],
       "hardness_mohs": 6,
@@ -134,7 +134,7 @@
     {
       "id": 9,
       "name": "Mercan",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coral-135577.jpg/640px-Coral-135577.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Karbonat"],
       "color": ["Kırmızı", "Turuncu", "Pembe"],
       "hardness_mohs": 3.5,
@@ -150,7 +150,7 @@
     {
       "id": 10,
       "name": "Opal",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Opal-205794.jpg/640px-Opal-205794.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Silikat"],
       "color": ["Beyaz", "Kırmızı", "Mavi", "Yeşil", "Sarı", "Mor"],
       "hardness_mohs": 6,
@@ -166,7 +166,7 @@
     {
       "id": 11,
       "name": "Kristal Kuvars",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Quartz-26024.jpg/640px-Quartz-26024.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Silikat"],
       "color": ["Şeffaf", "Beyaz"],
       "hardness_mohs": 7,
@@ -182,7 +182,7 @@
     {
       "id": 12,
       "name": "Akik",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Agate-170614.jpg/640px-Agate-170614.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Silikat"],
       "color": ["Kırmızı", "Kahverengi", "Beyaz", "Mavi", "Yeşil", "Siyah", "Turuncu"],
       "hardness_mohs": 6.5,
@@ -198,7 +198,7 @@
     {
       "id": 13,
       "name": "Yıldız Taşı",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sapphire-205918.jpg/640px-Sapphire-205918.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Oksit"],
       "color": ["Mavi", "Yeşil", "Kahverengi"],
       "hardness_mohs": 9,
@@ -214,7 +214,7 @@
     {
       "id": 14,
       "name": "Kalsedon",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chalcedony-174976.jpg/640px-Chalcedony-174976.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Silikat"],
       "color": ["Mavi", "Yeşil", "Beyaz", "Gri"],
       "hardness_mohs": 6.5,
@@ -230,7 +230,7 @@
     {
       "id": 15,
       "name": "Labradorit",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Labradorite-269665.jpg/640px-Labradorite-269665.jpg",
+      "img": "https://github.com/AlicanAkdogan/gemstone/blob/0c15be279deed9bbd2e9171d24ca6d3bd84699f9/images/citrine.png?raw=true",
       "type": ["Feldispat"],
       "color": ["Gri", "Kahverengi", "Mavi", "Yeşil", "Altın"],
       "hardness_mohs": 6,
